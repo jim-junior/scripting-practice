@@ -1,0 +1,10 @@
+192.168.1.10 GET /index.html
+10.0.0.5 GET /api/users
+192.168.1.10 POST /login
+172.16.0.3 GET /health
+10.0.0.5 GET /api/products
+192.168.1.10 GET /dashboard
+10.0.0.8 GET /index.html
+172.16.0.3 POST /login
+192.168.1.10 GET /profile
+10.0.0.5 GET /api/users
